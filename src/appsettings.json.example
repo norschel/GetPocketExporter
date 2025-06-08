@@ -1,0 +1,6 @@
+{
+  "Pocket": {
+    "ConsumerKey": "<replace_it>",
+    "AccessToken": "<replace_it>"
+  }
+}
